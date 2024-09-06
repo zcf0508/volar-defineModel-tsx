@@ -13,6 +13,6 @@
   "dependencies": {
     "nuxt": "^3.13.0",
     "vue": "https://pkg.pr.new/vue@11840",
-    "vue-tsc": "^2.1.2"
+    "vue-tsc": "^2.1.6"
   }
 }

@@ -15,7 +15,7 @@ importers:
         specifier: https://pkg.pr.new/vue@11840
         version: https://pkg.pr.new/vue@11840(typescript@5.5.4)
       vue-tsc:
-        specifier: ^2.1.2
+        specifier: ^2.1.6
         version: 2.1.6(typescript@5.5.4)
 
 packages:
